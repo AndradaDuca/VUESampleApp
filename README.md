@@ -1,2 +1,0 @@
-# VUESampleApp
-Created with CodeSandbox
